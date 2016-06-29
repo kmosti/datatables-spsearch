@@ -25,7 +25,7 @@ function search(webUrl,queryText,rowLimit,startRow,allResults)
 						if (relevantResults.TotalRows > startRow + relevantResults.RowCount) {
 						  return search(webUrl,queryText,rowLimit,startRow+relevantResults.RowCount,allResults);
 					    }
-						console.dir(allResults);
+						//console.dir(allResults);
 						return allResults;
 					   
 				});
@@ -40,7 +40,7 @@ function allRecentDocuments(results) {
 				var itemObject = {};
 				itemObject.path = this.Cells.results[2].Value;
 				itemObject.LastModifiedTime = this.Cells.results[4].Value || "";
-				itemObject.Title = this.Cells.results[5].Value.split(" - ")[5];
+				itemObject.Title = this.Cells.results[5].Value;
 				itemObject.ProjectShortName = this.Cells.results[6].Value || "";
 				itemObject.ProjectCategory = this.Cells.results[7].Value || "";
 				itemObject.ProjectOwner = this.Cells.results[8].Value || "";
