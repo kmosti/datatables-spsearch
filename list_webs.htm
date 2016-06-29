@@ -1,0 +1,21 @@
+<script src="/_layouts/15/sp.js"></script>
+
+<script src="/siteassets/externals/datatables/media/js/jquery.js"></script>
+<script src="http://cdnjs.cloudflare.com/ajax/libs/moment.js/2.9.0/moment.min.js"></script>
+<link rel="stylesheet" HREF="/siteassets/externals/datatables/media/css/jquery.dataTables.min.css">
+<script src="/siteassets/externals/datatables/media/js/jquery.dataTables.min.js"></script>
+<script src="/siteassets/spo.search.functions.js"></script>
+
+<div class="allloader"><img src="/siteassets/loader.gif" ></div>
+<table id="tablealldocs" style="display:none"><thead><th>Title</th><th>ProjectShortName</th><th>ProjectCategory</th><th>ProjectOwner</th><th>ProjectTeam</th><th>ProjectStartDate</th><th>Sist endret</th></thead><tbody id="alldocs"></tbody></table>
+
+<script type="text/javascript">
+
+$(document).ready(function(){
+var querytext = "contentclass:STS_Site"; //add additional search parameters here to narrow the search scope, e.g: path:https://tennant.sharepoint.com/project*
+search(_spPageContextInfo.webAbsoluteUrl,querytext,500,0)
+	.done(function(results){
+		allRecentDocuments(results);
+	});
+})
+</script>
