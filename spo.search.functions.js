@@ -11,7 +11,7 @@ function search(webUrl,queryText,rowLimit,startRow,allResults)
 			+ "&trimduplicates=false"
 			+ "&sortlist='LastModifiedTime:descending'"
 			//Be sure to include all properties you wish to display
-			+ "&selectproperties='Title,Description,LastModifiedTime,path,AAAProjectShortName,AAAProjectCategory,AAAProjectOwner,AAAProjectTeam,AAAProjectStartDate'";
+			+ "&selectproperties='Title,Description,LastModifiedTime,path,AAAProjectShortName,AAAProjectCategory,AAAProjectManager,AAAProjectClient,AAAProjectNumber'";
     return $.ajax({
 			url: url,
 			type: "GET",
@@ -38,14 +38,14 @@ function allRecentDocuments(results) {
 				//To debug, try using https://sp2013searchtool.codeplex.com/
 				//To check the output, the Chrome App "Advanced Rest Client" is also a great tool
 				var itemObject = {};
-				itemObject.path = this.Cells.results[2].Value;
+				itemObject.path = this.Cells.results[5].Value;
 				itemObject.LastModifiedTime = this.Cells.results[4].Value || "";
-				itemObject.Title = this.Cells.results[5].Value;
+				itemObject.Title = this.Cells.results[2].Value;
 				itemObject.ProjectShortName = this.Cells.results[6].Value || "";
 				itemObject.ProjectCategory = this.Cells.results[7].Value || "";
-				itemObject.ProjectOwner = this.Cells.results[8].Value || "";
-				itemObject.ProjectTeam = this.Cells.results[9].Value || "";
-				itemObject.ProjectStartDate = this.Cells.results[10].Value || "";
+				itemObject.ProjectManager = this.Cells.results[8].Value || "";
+				itemObject.ProjectClient = this.Cells.results[9].Value || "";
+				itemObject.ProjectNumber = this.Cells.results[10].Value || "";
 				
 				var trHtml =    "<tr>"
 								+ "<td><a href='"
@@ -60,15 +60,20 @@ function allRecentDocuments(results) {
 								+ itemObject.ProjectCategory
 								+ "</td>"
 								+ "<td>"
-								+ itemObject.ProjectOwner
+								+ itemObject.ProjectManager
 								+ "</td>"
 								+ "<td>"
-								+ itemObject.ProjectTeam
+								+ itemObject.ProjectClient
 								+ "</td>"
 								+ "<td>"
-								+ itemObject.ProjectStartDate
+								+ itemObject.ProjectNumber
 								+ "</td>"
-								+ "<td></tr>";
+								+ "<td>"
+								+ moment(itemObject.LastModifiedTime).format("DD/MM/YY HH:mm")
+								+ "</td>"
+								+ "<td>"
+								+ moment(itemObject.LastModifiedTime).format("YYYYMMDDHHmm")
+								+ "</td></tr>";
 
 				$("#alldocs").append(trHtml);
 
@@ -78,23 +83,17 @@ function allRecentDocuments(results) {
 		//render datatables
         $('.allloader').hide();
         $('#tablealldocs').show().DataTable({
-            /*"order": [[ 0, "desc" ]],
-            "columns": [
-            { "title": "Title"},
-			{ "title": "Bilnummer"},
-			{ "title": "Selger"},
-			{ "title": "Kunde"},
-			{ "title": "NyBrukt"},
-			{ "title": "NyBrukt"},
-            {
-                "title": "Sist endret",
-                "iDataSort": 7,
-				"bSearchable": false
-            },
-            {
-				"title": "sortdate",
-				"bSearchable": false
-			},
-            ]*/
+        	columnDefs: [
+        		{
+        			targets: [ 7 ],
+        			visible: false,
+        			bSearchable: false
+        		},
+        		{
+        			targets: 6,
+        			iDataSort: 7,
+        			bSearchable: false
+        		}
+        	]
         });
 }
