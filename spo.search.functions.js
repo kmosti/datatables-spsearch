@@ -10,7 +10,7 @@ function search(webUrl,queryText,rowLimit,startRow,allResults)
 			+ startRow
 			+ "&trimduplicates=false"
 			+ "&sortlist='LastModifiedTime:descending'"
-			//Be sure to include all properties you wish to display
+			//Be sure to include all properties you wish to display!
 			+ "&selectproperties='Title,Description,LastModifiedTime,path,AAAProjectShortName,AAAProjectCategory,AAAProjectManager,AAAProjectClient,AAAProjectNumber'";
     return $.ajax({
 			url: url,
@@ -25,7 +25,7 @@ function search(webUrl,queryText,rowLimit,startRow,allResults)
 						if (relevantResults.TotalRows > startRow + relevantResults.RowCount) {
 						  return search(webUrl,queryText,rowLimit,startRow+relevantResults.RowCount,allResults);
 					    }
-						//console.dir(allResults);
+						//console.dir(allResults); //used for debugging
 						return allResults;
 					   
 				});
@@ -80,16 +80,23 @@ function allRecentDocuments(results) {
 			})
 		});
 		
-		//render datatables
+		/*
+		Render datatables
+		The column definitions are set to hide the date column that displays dates in ascending order
+		It will then use the hidden date column to sort the nicely formatted date column
+		Be sure to set the correct column index here (the column number counted from 0)
+		*/
         $('.allloader').hide();
         $('#tablealldocs').show().DataTable({
         	columnDefs: [
         		{
+        			//hide the column we'll use to sort
         			targets: [ 7 ],
         			visible: false,
         			bSearchable: false
         		},
         		{
+        			//use the sorting column to sort the properly formatted dates
         			targets: 6,
         			iDataSort: 7,
         			bSearchable: false

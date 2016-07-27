@@ -12,10 +12,11 @@ for figuring out how to add a property to indexed properties in SPO
 
 Add-Type -Path "C:\Program Files\Common Files\microsoft shared\Web Server Extensions\16\ISAPI\Microsoft.SharePoint.Client.dll"
 Add-Type -Path "C:\Program Files\Common Files\microsoft shared\Web Server Extensions\16\ISAPI\Microsoft.SharePoint.Client.Runtime.dll"
+Add-Type -Path "c:\Program Files\Common Files\microsoft shared\Web Server Extensions\16\ISAPI\Microsoft.SharePoint.Client.Search.dll"
 
-$AdminAccount = "user@domain.no"
-$pwfile = "C:\PW.txt"
-$siteurl = "https://tennant.sharepoint.com/teams/site"
+$AdminAccount = "kmosti@spzealot.com" #SharePoint Online Administrator account
+$pwfile = "C:\Users\krimosti\Documents\My scripts\PW_DEV.txt" #location of cached credentials, will be encrypted to your user and machine
+$adminURI = "https://spzealot-admin.sharepoint.com"
 
 if (!(Test-Path $pwfile)) {
     Write-Host -ForegroundColor Yellow "pw not found, please input password"
@@ -25,9 +26,7 @@ if (!(Test-Path $pwfile)) {
 $AdminPass = Get-Content $pwfile | ConvertTo-SecureString -ErrorAction Stop
 $credentials = New-Object -TypeName System.Management.Automation.PSCredential -argumentlist $AdminAccount, $AdminPass
 
-$spoCtx = New-Object Microsoft.SharePoint.Client.ClientContext($siteurl)
-$spoCreds = New-Object Microsoft.SharePoint.Client.SharePointOnlineCredentials($AdminAccount, $AdminPass)
-$spoCtx.Credentials = $spoCreds
+Connect-SPOService -Url $AdminURI -credential $credentials
 
 function Set-PropertyBag {
     param (
@@ -44,7 +43,6 @@ function Set-PropertyBag {
                 $ClientContext.Load($Web.AllProperties)
                 $ClientContext.ExecuteQuery()
                 $oldIndexedProperties = $Web.AllProperties.FieldValues[$indexedPropertyBagKey]
-                Write-Host -f Yellow "old indexed keys = $($Web.AllProperties[$indexedPropertyBagKey])"
                 if($oldIndexedProperties -ne $null) {
                     $oldIndexedProperties = $oldIndexedProperties.ToString()
                 } else { 
@@ -57,7 +55,6 @@ function Set-PropertyBag {
                 if($oldIndexedProperties -notlike "*$encodedPropertyName*") {
                     $Web.AllProperties[$indexedPropertyBagKey] = "$oldIndexedProperties$encodedPropertyName|"
                 }
-                Write-Host -f Yellow "Current propertykeys = $($Web.AllProperties[$indexedPropertyBagKey])"
             }
 
             $Web.AllProperties[$PropertyName] = $PropertyValue
@@ -69,9 +66,27 @@ function Set-PropertyBag {
     }
 }
 
-#Example:
-Set-PropertyBag -PropertyName ProjectShortName -PropertyValue "Proj-0001" -Indexable $true -Web $spoCtx.Site.RootWeb -ClientContext $spoCtx
-Set-PropertyBag -PropertyName ProjectCategory -PropertyValue "Enterprise Search" -Indexable $true -Web $spoCtx.Site.RootWeb -ClientContext $spoCtx
+#Example, importing from a CSV to create sites and set properties as a proof of concept:
+
+Import-Csv -Delimiter ";" -Path "C:\Users\krimosti\Desktop\sposites.csv" | %{
+    if ($_.Provisioned -eq "No") {
+            Write-Host -f Yellow "Creating site $($_.Url)"
+            New-SPOSite -Url $_.Url -Title $_.ProjectShortName -Owner $_.Owner -StorageQuota 500 -ResourceQuota 10 -Template $_.Template -TimeZoneId 3
+            $siteurl = $_.Url
+            $spoCtx = New-Object Microsoft.SharePoint.Client.ClientContext($siteurl)
+            $spoCreds = New-Object Microsoft.SharePoint.Client.SharePointOnlineCredentials($AdminAccount, $AdminPass)
+            $spoCtx.Credentials = $spoCreds
+
+            Write-Host -f Cyan "Setting properties for site $($_.Url)"
+            Set-PropertyBag -PropertyName ProjectShortName -PropertyValue $_.ProjectShortName -Indexable $true -Web $spoCtx.Site.RootWeb -ClientContext $spoCtx
+            Set-PropertyBag -PropertyName ProjectCategory -PropertyValue $_.ProjectCategory -Indexable $true -Web $spoCtx.Site.RootWeb -ClientContext $spoCtx
+            Set-PropertyBag -PropertyName ProjectNumber -PropertyValue $_.ProjectNumber -Indexable $true -Web $spoCtx.Site.RootWeb -ClientContext $spoCtx
+            Set-PropertyBag -PropertyName ProjectManager -PropertyValue $_.ProjectManager -Indexable $true -Web $spoCtx.Site.RootWeb -ClientContext $spoCtx
+            Set-PropertyBag -PropertyName ProjectClient -PropertyValue $_.ProjectClient -Indexable $true -Web $spoCtx.Site.RootWeb -ClientContext $spoCtx
+        }  
+}
+
+Disconnect-SPOService
 
 <#Next steps:
 1. Map crawled property to managed property
