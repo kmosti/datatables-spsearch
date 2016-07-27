@@ -1,141 +1,141 @@
-Owner;Url;Template;ProjectShortName;ProjectCategory;ProjectManager;ProjectClient;ProjectNumber;Provisioned
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Forsete;STS#0;proj-Forsete;SharePoint;Kristian Mosti;Contoso;00005;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Frigg;STS#0;proj-Frigg;JavaScript;Kristian Mosti;Wingtip;00006;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Froey;STS#0;proj-Froey;PowerShell;Kristian Mosti;AdventureWorks;00007;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Froeya;STS#0;proj-Froeya;Microsoft;Kristian Mosti;Coho Winery;00008;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Gerd;STS#0;proj-Gerd;jQuery;Kristian Mosti;Fabrikam;00009;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Heimdal;STS#0;proj-Heimdal;SharePoint;Kristian Mosti;Contoso;00010;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Hel;STS#0;proj-Hel;JavaScript;Kristian Mosti;Wingtip;00011;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Hod;STS#0;proj-Hod;PowerShell;Kristian Mosti;AdventureWorks;00012;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Idun;STS#0;proj-Idun;Microsoft;Per Ove Sandhaaland;Coho Winery;00013;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Loke;STS#0;proj-Loke;jQuery;Per Ove Sandhaaland;Fabrikam;00014;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Nanna;STS#0;proj-Nanna;SharePoint;Per Ove Sandhaaland;Contoso;00015;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Njord;STS#0;proj-Njord;JavaScript;Per Ove Sandhaaland;Wingtip;00016;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Odin;STS#0;proj-Odin;PowerShell;Per Ove Sandhaaland;AdventureWorks;00017;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Ran;STS#0;proj-Ran;Microsoft;Per Ove Sandhaaland;Coho Winery;00018;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Sigyn;STS#0;proj-Sigyn;jQuery;Per Ove Sandhaaland;Fabrikam;00019;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Siv;STS#0;proj-Siv;SharePoint;Per Ove Sandhaaland;Contoso;00020;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Skade;STS#0;proj-Skade;JavaScript;Per Ove Sandhaaland;Wingtip;00021;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Skuld;STS#0;proj-Skuld;PowerShell;Hans Petter Frafjord;AdventureWorks;00022;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Tor;STS#0;proj-Tor;Microsoft;Hans Petter Frafjord;Coho Winery;00023;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Tyr;STS#0;proj-Tyr;jQuery;Hans Petter Frafjord;Fabrikam;00024;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Ull;STS#0;proj-Ull;SharePoint;Hans Petter Frafjord;Contoso;00025;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Urd;STS#0;proj-Urd;JavaScript;Hans Petter Frafjord;Wingtip;00026;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Vale;STS#0;proj-Vale;PowerShell;Hans Petter Frafjord;AdventureWorks;00027;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Ve;STS#0;proj-Ve;Microsoft;Hans Petter Frafjord;Coho Winery;00028;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Verdandi;STS#0;proj-Verdandi;jQuery;Hans Petter Frafjord;Fabrikam;00029;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Vidar;STS#0;proj-Vidar;SharePoint;Hans Petter Frafjord;Contoso;00030;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Vile;STS#0;proj-Vile;JavaScript;Hans Petter Frafjord;Wingtip;00031;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Aegir;STS#0;proj-Aegir;PowerShell;Hans Petter Frafjord;AdventureWorks;00032;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Allvis;STS#0;proj-Allvis;SharePoint;Kristian Mosti;Contoso;00033;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Andrimne;STS#0;proj-Andrimne;JavaScript;Kristian Mosti;Wingtip;00034;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Andvare;STS#0;proj-Andvare;PowerShell;Kristian Mosti;AdventureWorks;00035;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Angerboda;STS#0;proj-Angerboda;Microsoft;Kristian Mosti;Coho Winery;00036;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Aurboda;STS#0;proj-Aurboda;jQuery;Kristian Mosti;Fabrikam;00037;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Aurvandil;STS#0;proj-Aurvandil;SharePoint;Kristian Mosti;Contoso;00038;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Balder;STS#0;proj-Balder;JavaScript;Kristian Mosti;Wingtip;00039;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Bauge;STS#0;proj-Bauge;PowerShell;Kristian Mosti;AdventureWorks;00040;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Bestla;STS#0;proj-Bestla;Microsoft;Per Ove Sandhaaland;Coho Winery;00041;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Bil;STS#0;proj-Bil;jQuery;Per Ove Sandhaaland;Fabrikam;00042;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Bolthorn;STS#0;proj-Bolthorn;SharePoint;Per Ove Sandhaaland;Contoso;00043;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Bor;STS#0;proj-Bor;JavaScript;Per Ove Sandhaaland;Wingtip;00044;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Brage;STS#0;proj-Brage;PowerShell;Per Ove Sandhaaland;AdventureWorks;00045;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Brokk;STS#0;proj-Brokk;Microsoft;Per Ove Sandhaaland;Coho Winery;00046;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Bure;STS#0;proj-Bure;jQuery;Per Ove Sandhaaland;Fabrikam;00047;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Byggve;STS#0;proj-Byggve;SharePoint;Per Ove Sandhaaland;Contoso;00048;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Byleist;STS#0;proj-Byleist;JavaScript;Per Ove Sandhaaland;Wingtip;00049;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Delling;STS#0;proj-Delling;PowerShell;Hans Petter Frafjord;AdventureWorks;00050;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Driva;STS#0;proj-Driva;Microsoft;Hans Petter Frafjord;Coho Winery;00051;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Durin;STS#0;proj-Durin;jQuery;Hans Petter Frafjord;Fabrikam;00052;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Dvalin;STS#0;proj-Dvalin;SharePoint;Hans Petter Frafjord;Contoso;00053;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Daain;STS#0;proj-Daain;JavaScript;Hans Petter Frafjord;Wingtip;00054;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Eir;STS#0;proj-Eir;PowerShell;Hans Petter Frafjord;AdventureWorks;00055;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Fenrisulven;STS#0;proj-Fenrisulven;Microsoft;Hans Petter Frafjord;Coho Winery;00056;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Fjalar;STS#0;proj-Fjalar;jQuery;Hans Petter Frafjord;Fabrikam;00057;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Fjorgyn;STS#0;proj-Fjorgyn;SharePoint;Hans Petter Frafjord;Contoso;00058;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Fonn;STS#0;proj-Fonn;JavaScript;Hans Petter Frafjord;Wingtip;00059;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Fornjot;STS#0;proj-Fornjot;PowerShell;Hans Petter Frafjord;AdventureWorks;00060;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Fulla;STS#0;proj-Fulla;PowerShell;Kristian Mosti;AdventureWorks;00063;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Faarbaute;STS#0;proj-Faarbaute;Microsoft;Kristian Mosti;Coho Winery;00064;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Galar;STS#0;proj-Galar;jQuery;Kristian Mosti;Fabrikam;00065;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Geirroed;STS#0;proj-Geirroed;SharePoint;Kristian Mosti;Contoso;00066;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Gersemi;STS#0;proj-Gersemi;JavaScript;Kristian Mosti;Wingtip;00067;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Gilling;STS#0;proj-Gilling;PowerShell;Kristian Mosti;AdventureWorks;00068;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Gjevjon;STS#0;proj-Gjevjon;Microsoft;Per Ove Sandhaaland;Coho Winery;00069;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Gnaa;STS#0;proj-Gnaa;jQuery;Per Ove Sandhaaland;Fabrikam;00070;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Gondul;STS#0;proj-Gondul;SharePoint;Per Ove Sandhaaland;Contoso;00071;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Grid;STS#0;proj-Grid;JavaScript;Per Ove Sandhaaland;Wingtip;00072;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Groa;STS#0;proj-Groa;PowerShell;Per Ove Sandhaaland;AdventureWorks;00073;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Gunnlod;STS#0;proj-Gunnlod;Microsoft;Per Ove Sandhaaland;Coho Winery;00074;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Gyme;STS#0;proj-Gyme;jQuery;Per Ove Sandhaaland;Fabrikam;00075;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Heid;STS#0;proj-Heid;SharePoint;Per Ove Sandhaaland;Contoso;00076;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Heimdall;STS#0;proj-Heimdall;JavaScript;Per Ove Sandhaaland;Wingtip;00077;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Helblinde;STS#0;proj-Helblinde;PowerShell;Hans Petter Frafjord;AdventureWorks;00078;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Hermod;STS#0;proj-Hermod;Microsoft;Hans Petter Frafjord;Coho Winery;00079;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Hild;STS#0;proj-Hild;jQuery;Hans Petter Frafjord;Fabrikam;00080;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Hjuke;STS#0;proj-Hjuke;SharePoint;Hans Petter Frafjord;Contoso;00081;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Hloekk;STS#0;proj-Hloekk;JavaScript;Hans Petter Frafjord;Wingtip;00082;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Hnoss;STS#0;proj-Hnoss;PowerShell;Hans Petter Frafjord;AdventureWorks;00083;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Hraesvelg;STS#0;proj-Hraesvelg;Microsoft;Hans Petter Frafjord;Coho Winery;00084;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Hyme;STS#0;proj-Hyme;jQuery;Hans Petter Frafjord;Fabrikam;00085;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Hyndla;STS#0;proj-Hyndla;SharePoint;Hans Petter Frafjord;Contoso;00086;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Hyrrokkin;STS#0;proj-Hyrrokkin;JavaScript;Hans Petter Frafjord;Wingtip;00087;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Hoene;STS#0;proj-Hoene;PowerShell;Hans Petter Frafjord;AdventureWorks;00088;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Idunn;STS#0;proj-Idunn;SharePoint;Kristian Mosti;Contoso;00089;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Ilm;STS#0;proj-Ilm;JavaScript;Kristian Mosti;Wingtip;00090;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Irpa;STS#0;proj-Irpa;PowerShell;Kristian Mosti;AdventureWorks;00091;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Jernsaksa;STS#0;proj-Jernsaksa;Microsoft;Kristian Mosti;Coho Winery;00092;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Kvase;STS#0;proj-Kvase;jQuery;Kristian Mosti;Fabrikam;00093;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Lauvoey;STS#0;proj-Lauvoey;SharePoint;Kristian Mosti;Contoso;00094;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Lin;STS#0;proj-Lin;JavaScript;Kristian Mosti;Wingtip;00095;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Lodur;STS#0;proj-Lodur;PowerShell;Kristian Mosti;AdventureWorks;00096;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Lovn;STS#0;proj-Lovn;Microsoft;Per Ove Sandhaaland;Coho Winery;00097;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Magne;STS#0;proj-Magne;jQuery;Per Ove Sandhaaland;Fabrikam;00098;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Meile;STS#0;proj-Meile;SharePoint;Per Ove Sandhaaland;Contoso;00099;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Mengloed;STS#0;proj-Mengloed;JavaScript;Per Ove Sandhaaland;Wingtip;00100;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Midgardsormen;STS#0;proj-Midgardsormen;PowerShell;Per Ove Sandhaaland;AdventureWorks;00101;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Mime;STS#0;proj-Mime;Microsoft;Per Ove Sandhaaland;Coho Winery;00102;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Mist;STS#0;proj-Mist;jQuery;Per Ove Sandhaaland;Fabrikam;00103;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Mjoll;STS#0;proj-Mjoll;SharePoint;Per Ove Sandhaaland;Contoso;00104;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Mode;STS#0;proj-Mode;JavaScript;Per Ove Sandhaaland;Wingtip;00105;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Modgunn;STS#0;proj-Modgunn;PowerShell;Hans Petter Frafjord;AdventureWorks;00106;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Mokkurkalve;STS#0;proj-Mokkurkalve;Microsoft;Hans Petter Frafjord;Coho Winery;00107;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Mundilfare;STS#0;proj-Mundilfare;jQuery;Hans Petter Frafjord;Fabrikam;00108;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Muspell;STS#0;proj-Muspell;SharePoint;Hans Petter Frafjord;Contoso;00109;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Nabbe;STS#0;proj-Nabbe;JavaScript;Hans Petter Frafjord;Wingtip;00110;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Naglfare;STS#0;proj-Naglfare;PowerShell;Hans Petter Frafjord;AdventureWorks;00111;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Natt;STS#0;proj-Natt;Microsoft;Hans Petter Frafjord;Coho Winery;00112;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Njorun;STS#0;proj-Njorun;jQuery;Hans Petter Frafjord;Fabrikam;00113;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Norve;STS#0;proj-Norve;SharePoint;Hans Petter Frafjord;Contoso;00114;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Od;STS#0;proj-Od;JavaScript;Hans Petter Frafjord;Wingtip;00115;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Rimne;STS#0;proj-Rimne;PowerShell;Hans Petter Frafjord;AdventureWorks;00116;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Rind;STS#0;proj-Rind;SharePoint;Kristian Mosti;Contoso;00117;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Rist;STS#0;proj-Rist;JavaScript;Kristian Mosti;Wingtip;00118;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Rungne;STS#0;proj-Rungne;PowerShell;Kristian Mosti;AdventureWorks;00119;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Raan;STS#0;proj-Raan;Microsoft;Kristian Mosti;Coho Winery;00120;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Sjavn;STS#0;proj-Sjavn;jQuery;Kristian Mosti;Fabrikam;00121;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Skjeggjold;STS#0;proj-Skjeggjold;SharePoint;Kristian Mosti;Contoso;00122;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Skogul;STS#0;proj-Skogul;JavaScript;Kristian Mosti;Wingtip;00123;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Snotra;STS#0;proj-Snotra;PowerShell;Kristian Mosti;AdventureWorks;00124;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Snoe;STS#0;proj-Snoe;Microsoft;Per Ove Sandhaaland;Coho Winery;00125;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Sol;STS#0;proj-Sol;jQuery;Per Ove Sandhaaland;Fabrikam;00126;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Surt;STS#0;proj-Surt;SharePoint;Per Ove Sandhaaland;Contoso;00127;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Suttung;STS#0;proj-Suttung;JavaScript;Per Ove Sandhaaland;Wingtip;00128;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Syn;STS#0;proj-Syn;PowerShell;Per Ove Sandhaaland;AdventureWorks;00129;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Saaga;STS#0;proj-Saaga;Microsoft;Per Ove Sandhaaland;Coho Winery;00130;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Tjatse;STS#0;proj-Tjatse;jQuery;Per Ove Sandhaaland;Fabrikam;00131;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Torgerd-Hoelgebrud;STS#0;proj-Torgerd-Hoelgebrud;SharePoint;Per Ove Sandhaaland;Contoso;00132;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Torre;STS#0;proj-Torre;JavaScript;Per Ove Sandhaaland;Wingtip;00133;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Trud;STS#0;proj-Trud;PowerShell;Hans Petter Frafjord;AdventureWorks;00134;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Trym;STS#0;proj-Trym;Microsoft;Hans Petter Frafjord;Coho Winery;00135;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Ty;STS#0;proj-Ty;jQuery;Hans Petter Frafjord;Fabrikam;00136;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Utgards-Loke;STS#0;proj-Utgards-Loke;SharePoint;Hans Petter Frafjord;Contoso;00137;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Var;STS#0;proj-Var;JavaScript;Hans Petter Frafjord;Wingtip;00138;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Vavtrudne;STS#0;proj-Vavtrudne;PowerShell;Hans Petter Frafjord;AdventureWorks;00139;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Vedfinn;STS#0;proj-Vedfinn;Microsoft;Hans Petter Frafjord;Coho Winery;00140;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Verdande;STS#0;proj-Verdande;jQuery;Hans Petter Frafjord;Fabrikam;00141;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Vilje;STS#0;proj-Vilje;SharePoint;Hans Petter Frafjord;Contoso;00142;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Vaale;STS#0;proj-Vaale;JavaScript;Hans Petter Frafjord;Wingtip;00143;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Vaar;STS#0;proj-Vaar;PowerShell;Hans Petter Frafjord;AdventureWorks;00144;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Yme;STS#0;proj-Yme;Microsoft;Kristian Mosti;Contoso;00145;No
-kmosti@spzealot.com;https://spzealot.sharepoint.com/teams/proj-Aege;STS#0;proj-Aege;jQuery;Kristian Mosti;Wingtip;00146;No
+Owner,Url,Template,ProjectShortName,ProjectCategory,ProjectManager,ProjectClient,ProjectNumber,Provisioned
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Forsete,STS#0,proj-Forsete,SharePoint,Kristian Mosti,Contoso,00005,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Frigg,STS#0,proj-Frigg,JavaScript,Kristian Mosti,Wingtip,00006,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Froey,STS#0,proj-Froey,PowerShell,Kristian Mosti,AdventureWorks,00007,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Froeya,STS#0,proj-Froeya,Microsoft,Kristian Mosti,Coho Winery,00008,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Gerd,STS#0,proj-Gerd,jQuery,Kristian Mosti,Fabrikam,00009,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Heimdal,STS#0,proj-Heimdal,SharePoint,Kristian Mosti,Contoso,00010,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Hel,STS#0,proj-Hel,JavaScript,Kristian Mosti,Wingtip,00011,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Hod,STS#0,proj-Hod,PowerShell,Kristian Mosti,AdventureWorks,00012,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Idun,STS#0,proj-Idun,Microsoft,Per Ove Sandhaaland,Coho Winery,00013,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Loke,STS#0,proj-Loke,jQuery,Per Ove Sandhaaland,Fabrikam,00014,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Nanna,STS#0,proj-Nanna,SharePoint,Per Ove Sandhaaland,Contoso,00015,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Njord,STS#0,proj-Njord,JavaScript,Per Ove Sandhaaland,Wingtip,00016,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Odin,STS#0,proj-Odin,PowerShell,Per Ove Sandhaaland,AdventureWorks,00017,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Ran,STS#0,proj-Ran,Microsoft,Per Ove Sandhaaland,Coho Winery,00018,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Sigyn,STS#0,proj-Sigyn,jQuery,Per Ove Sandhaaland,Fabrikam,00019,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Siv,STS#0,proj-Siv,SharePoint,Per Ove Sandhaaland,Contoso,00020,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Skade,STS#0,proj-Skade,JavaScript,Per Ove Sandhaaland,Wingtip,00021,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Skuld,STS#0,proj-Skuld,PowerShell,Hans Petter Frafjord,AdventureWorks,00022,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Tor,STS#0,proj-Tor,Microsoft,Hans Petter Frafjord,Coho Winery,00023,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Tyr,STS#0,proj-Tyr,jQuery,Hans Petter Frafjord,Fabrikam,00024,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Ull,STS#0,proj-Ull,SharePoint,Hans Petter Frafjord,Contoso,00025,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Urd,STS#0,proj-Urd,JavaScript,Hans Petter Frafjord,Wingtip,00026,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Vale,STS#0,proj-Vale,PowerShell,Hans Petter Frafjord,AdventureWorks,00027,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Ve,STS#0,proj-Ve,Microsoft,Hans Petter Frafjord,Coho Winery,00028,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Verdandi,STS#0,proj-Verdandi,jQuery,Hans Petter Frafjord,Fabrikam,00029,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Vidar,STS#0,proj-Vidar,SharePoint,Hans Petter Frafjord,Contoso,00030,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Vile,STS#0,proj-Vile,JavaScript,Hans Petter Frafjord,Wingtip,00031,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Aegir,STS#0,proj-Aegir,PowerShell,Hans Petter Frafjord,AdventureWorks,00032,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Allvis,STS#0,proj-Allvis,SharePoint,Kristian Mosti,Contoso,00033,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Andrimne,STS#0,proj-Andrimne,JavaScript,Kristian Mosti,Wingtip,00034,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Andvare,STS#0,proj-Andvare,PowerShell,Kristian Mosti,AdventureWorks,00035,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Angerboda,STS#0,proj-Angerboda,Microsoft,Kristian Mosti,Coho Winery,00036,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Aurboda,STS#0,proj-Aurboda,jQuery,Kristian Mosti,Fabrikam,00037,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Aurvandil,STS#0,proj-Aurvandil,SharePoint,Kristian Mosti,Contoso,00038,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Balder,STS#0,proj-Balder,JavaScript,Kristian Mosti,Wingtip,00039,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Bauge,STS#0,proj-Bauge,PowerShell,Kristian Mosti,AdventureWorks,00040,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Bestla,STS#0,proj-Bestla,Microsoft,Per Ove Sandhaaland,Coho Winery,00041,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Bil,STS#0,proj-Bil,jQuery,Per Ove Sandhaaland,Fabrikam,00042,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Bolthorn,STS#0,proj-Bolthorn,SharePoint,Per Ove Sandhaaland,Contoso,00043,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Bor,STS#0,proj-Bor,JavaScript,Per Ove Sandhaaland,Wingtip,00044,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Brage,STS#0,proj-Brage,PowerShell,Per Ove Sandhaaland,AdventureWorks,00045,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Brokk,STS#0,proj-Brokk,Microsoft,Per Ove Sandhaaland,Coho Winery,00046,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Bure,STS#0,proj-Bure,jQuery,Per Ove Sandhaaland,Fabrikam,00047,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Byggve,STS#0,proj-Byggve,SharePoint,Per Ove Sandhaaland,Contoso,00048,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Byleist,STS#0,proj-Byleist,JavaScript,Per Ove Sandhaaland,Wingtip,00049,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Delling,STS#0,proj-Delling,PowerShell,Hans Petter Frafjord,AdventureWorks,00050,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Driva,STS#0,proj-Driva,Microsoft,Hans Petter Frafjord,Coho Winery,00051,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Durin,STS#0,proj-Durin,jQuery,Hans Petter Frafjord,Fabrikam,00052,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Dvalin,STS#0,proj-Dvalin,SharePoint,Hans Petter Frafjord,Contoso,00053,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Daain,STS#0,proj-Daain,JavaScript,Hans Petter Frafjord,Wingtip,00054,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Eir,STS#0,proj-Eir,PowerShell,Hans Petter Frafjord,AdventureWorks,00055,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Fenrisulven,STS#0,proj-Fenrisulven,Microsoft,Hans Petter Frafjord,Coho Winery,00056,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Fjalar,STS#0,proj-Fjalar,jQuery,Hans Petter Frafjord,Fabrikam,00057,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Fjorgyn,STS#0,proj-Fjorgyn,SharePoint,Hans Petter Frafjord,Contoso,00058,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Fonn,STS#0,proj-Fonn,JavaScript,Hans Petter Frafjord,Wingtip,00059,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Fornjot,STS#0,proj-Fornjot,PowerShell,Hans Petter Frafjord,AdventureWorks,00060,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Fulla,STS#0,proj-Fulla,PowerShell,Kristian Mosti,AdventureWorks,00063,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Faarbaute,STS#0,proj-Faarbaute,Microsoft,Kristian Mosti,Coho Winery,00064,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Galar,STS#0,proj-Galar,jQuery,Kristian Mosti,Fabrikam,00065,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Geirroed,STS#0,proj-Geirroed,SharePoint,Kristian Mosti,Contoso,00066,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Gersemi,STS#0,proj-Gersemi,JavaScript,Kristian Mosti,Wingtip,00067,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Gilling,STS#0,proj-Gilling,PowerShell,Kristian Mosti,AdventureWorks,00068,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Gjevjon,STS#0,proj-Gjevjon,Microsoft,Per Ove Sandhaaland,Coho Winery,00069,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Gnaa,STS#0,proj-Gnaa,jQuery,Per Ove Sandhaaland,Fabrikam,00070,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Gondul,STS#0,proj-Gondul,SharePoint,Per Ove Sandhaaland,Contoso,00071,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Grid,STS#0,proj-Grid,JavaScript,Per Ove Sandhaaland,Wingtip,00072,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Groa,STS#0,proj-Groa,PowerShell,Per Ove Sandhaaland,AdventureWorks,00073,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Gunnlod,STS#0,proj-Gunnlod,Microsoft,Per Ove Sandhaaland,Coho Winery,00074,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Gyme,STS#0,proj-Gyme,jQuery,Per Ove Sandhaaland,Fabrikam,00075,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Heid,STS#0,proj-Heid,SharePoint,Per Ove Sandhaaland,Contoso,00076,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Heimdall,STS#0,proj-Heimdall,JavaScript,Per Ove Sandhaaland,Wingtip,00077,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Helblinde,STS#0,proj-Helblinde,PowerShell,Hans Petter Frafjord,AdventureWorks,00078,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Hermod,STS#0,proj-Hermod,Microsoft,Hans Petter Frafjord,Coho Winery,00079,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Hild,STS#0,proj-Hild,jQuery,Hans Petter Frafjord,Fabrikam,00080,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Hjuke,STS#0,proj-Hjuke,SharePoint,Hans Petter Frafjord,Contoso,00081,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Hloekk,STS#0,proj-Hloekk,JavaScript,Hans Petter Frafjord,Wingtip,00082,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Hnoss,STS#0,proj-Hnoss,PowerShell,Hans Petter Frafjord,AdventureWorks,00083,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Hraesvelg,STS#0,proj-Hraesvelg,Microsoft,Hans Petter Frafjord,Coho Winery,00084,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Hyme,STS#0,proj-Hyme,jQuery,Hans Petter Frafjord,Fabrikam,00085,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Hyndla,STS#0,proj-Hyndla,SharePoint,Hans Petter Frafjord,Contoso,00086,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Hyrrokkin,STS#0,proj-Hyrrokkin,JavaScript,Hans Petter Frafjord,Wingtip,00087,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Hoene,STS#0,proj-Hoene,PowerShell,Hans Petter Frafjord,AdventureWorks,00088,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Idunn,STS#0,proj-Idunn,SharePoint,Kristian Mosti,Contoso,00089,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Ilm,STS#0,proj-Ilm,JavaScript,Kristian Mosti,Wingtip,00090,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Irpa,STS#0,proj-Irpa,PowerShell,Kristian Mosti,AdventureWorks,00091,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Jernsaksa,STS#0,proj-Jernsaksa,Microsoft,Kristian Mosti,Coho Winery,00092,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Kvase,STS#0,proj-Kvase,jQuery,Kristian Mosti,Fabrikam,00093,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Lauvoey,STS#0,proj-Lauvoey,SharePoint,Kristian Mosti,Contoso,00094,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Lin,STS#0,proj-Lin,JavaScript,Kristian Mosti,Wingtip,00095,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Lodur,STS#0,proj-Lodur,PowerShell,Kristian Mosti,AdventureWorks,00096,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Lovn,STS#0,proj-Lovn,Microsoft,Per Ove Sandhaaland,Coho Winery,00097,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Magne,STS#0,proj-Magne,jQuery,Per Ove Sandhaaland,Fabrikam,00098,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Meile,STS#0,proj-Meile,SharePoint,Per Ove Sandhaaland,Contoso,00099,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Mengloed,STS#0,proj-Mengloed,JavaScript,Per Ove Sandhaaland,Wingtip,00100,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Midgardsormen,STS#0,proj-Midgardsormen,PowerShell,Per Ove Sandhaaland,AdventureWorks,00101,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Mime,STS#0,proj-Mime,Microsoft,Per Ove Sandhaaland,Coho Winery,00102,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Mist,STS#0,proj-Mist,jQuery,Per Ove Sandhaaland,Fabrikam,00103,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Mjoll,STS#0,proj-Mjoll,SharePoint,Per Ove Sandhaaland,Contoso,00104,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Mode,STS#0,proj-Mode,JavaScript,Per Ove Sandhaaland,Wingtip,00105,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Modgunn,STS#0,proj-Modgunn,PowerShell,Hans Petter Frafjord,AdventureWorks,00106,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Mokkurkalve,STS#0,proj-Mokkurkalve,Microsoft,Hans Petter Frafjord,Coho Winery,00107,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Mundilfare,STS#0,proj-Mundilfare,jQuery,Hans Petter Frafjord,Fabrikam,00108,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Muspell,STS#0,proj-Muspell,SharePoint,Hans Petter Frafjord,Contoso,00109,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Nabbe,STS#0,proj-Nabbe,JavaScript,Hans Petter Frafjord,Wingtip,00110,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Naglfare,STS#0,proj-Naglfare,PowerShell,Hans Petter Frafjord,AdventureWorks,00111,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Natt,STS#0,proj-Natt,Microsoft,Hans Petter Frafjord,Coho Winery,00112,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Njorun,STS#0,proj-Njorun,jQuery,Hans Petter Frafjord,Fabrikam,00113,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Norve,STS#0,proj-Norve,SharePoint,Hans Petter Frafjord,Contoso,00114,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Od,STS#0,proj-Od,JavaScript,Hans Petter Frafjord,Wingtip,00115,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Rimne,STS#0,proj-Rimne,PowerShell,Hans Petter Frafjord,AdventureWorks,00116,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Rind,STS#0,proj-Rind,SharePoint,Kristian Mosti,Contoso,00117,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Rist,STS#0,proj-Rist,JavaScript,Kristian Mosti,Wingtip,00118,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Rungne,STS#0,proj-Rungne,PowerShell,Kristian Mosti,AdventureWorks,00119,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Raan,STS#0,proj-Raan,Microsoft,Kristian Mosti,Coho Winery,00120,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Sjavn,STS#0,proj-Sjavn,jQuery,Kristian Mosti,Fabrikam,00121,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Skjeggjold,STS#0,proj-Skjeggjold,SharePoint,Kristian Mosti,Contoso,00122,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Skogul,STS#0,proj-Skogul,JavaScript,Kristian Mosti,Wingtip,00123,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Snotra,STS#0,proj-Snotra,PowerShell,Kristian Mosti,AdventureWorks,00124,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Snoe,STS#0,proj-Snoe,Microsoft,Per Ove Sandhaaland,Coho Winery,00125,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Sol,STS#0,proj-Sol,jQuery,Per Ove Sandhaaland,Fabrikam,00126,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Surt,STS#0,proj-Surt,SharePoint,Per Ove Sandhaaland,Contoso,00127,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Suttung,STS#0,proj-Suttung,JavaScript,Per Ove Sandhaaland,Wingtip,00128,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Syn,STS#0,proj-Syn,PowerShell,Per Ove Sandhaaland,AdventureWorks,00129,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Saaga,STS#0,proj-Saaga,Microsoft,Per Ove Sandhaaland,Coho Winery,00130,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Tjatse,STS#0,proj-Tjatse,jQuery,Per Ove Sandhaaland,Fabrikam,00131,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Torgerd-Hoelgebrud,STS#0,proj-Torgerd-Hoelgebrud,SharePoint,Per Ove Sandhaaland,Contoso,00132,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Torre,STS#0,proj-Torre,JavaScript,Per Ove Sandhaaland,Wingtip,00133,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Trud,STS#0,proj-Trud,PowerShell,Hans Petter Frafjord,AdventureWorks,00134,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Trym,STS#0,proj-Trym,Microsoft,Hans Petter Frafjord,Coho Winery,00135,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Ty,STS#0,proj-Ty,jQuery,Hans Petter Frafjord,Fabrikam,00136,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Utgards-Loke,STS#0,proj-Utgards-Loke,SharePoint,Hans Petter Frafjord,Contoso,00137,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Var,STS#0,proj-Var,JavaScript,Hans Petter Frafjord,Wingtip,00138,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Vavtrudne,STS#0,proj-Vavtrudne,PowerShell,Hans Petter Frafjord,AdventureWorks,00139,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Vedfinn,STS#0,proj-Vedfinn,Microsoft,Hans Petter Frafjord,Coho Winery,00140,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Verdande,STS#0,proj-Verdande,jQuery,Hans Petter Frafjord,Fabrikam,00141,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Vilje,STS#0,proj-Vilje,SharePoint,Hans Petter Frafjord,Contoso,00142,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Vaale,STS#0,proj-Vaale,JavaScript,Hans Petter Frafjord,Wingtip,00143,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Vaar,STS#0,proj-Vaar,PowerShell,Hans Petter Frafjord,AdventureWorks,00144,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Yme,STS#0,proj-Yme,Microsoft,Kristian Mosti,Contoso,00145,No
+kmosti@spzealot.com,https://spzealot.sharepoint.com/teams/proj-Aege,STS#0,proj-Aege,jQuery,Kristian Mosti,Wingtip,00146,No
